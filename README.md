@@ -9,5 +9,6 @@ def IK(x, y, z):
     return Q \# joint positions
  ```
  
- 2. create a catkin workspace
+ 2. control the servo using ardiuno python package
+ 3. create a catkin workspace
  
