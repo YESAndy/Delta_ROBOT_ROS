@@ -3,7 +3,6 @@ This repo is for Delta robot control in ROS
 
 # TO-DO-LIST
 1. rewrite the inverse kinematic of the delta robot in python, something like this:
-2. 
 ```
 def IK(x, y, z): 
    \# steps 
